@@ -1,12 +1,89 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\maico\\Documents\\GitHub\\Final\\SistemaPatinaje\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFD5692-0A92-4E18-81EB-1EA3AE456F08}|sistemapatinaje.client\\sistemapatinaje.client.esproj|c:\\users\\maico\\documents\\github\\final\\sistemapatinaje\\sistemapatinaje.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1BFD5692-0A92-4E18-81EB-1EA3AE456F08}|sistemapatinaje.client\\sistemapatinaje.client.esproj|solutionrelative:sistemapatinaje.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFD5692-0A92-4E18-81EB-1EA3AE456F08}|sistemapatinaje.client\\sistemapatinaje.client.esproj|c:\\users\\maico\\documents\\github\\final\\sistemapatinaje\\sistemapatinaje.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1BFD5692-0A92-4E18-81EB-1EA3AE456F08}|sistemapatinaje.client\\sistemapatinaje.client.esproj|solutionrelative:sistemapatinaje.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFD5692-0A92-4E18-81EB-1EA3AE456F08}|sistemapatinaje.client\\sistemapatinaje.client.esproj|c:\\users\\maico\\documents\\github\\final\\sistemapatinaje\\sistemapatinaje.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BFD5692-0A92-4E18-81EB-1EA3AE456F08}|sistemapatinaje.client\\sistemapatinaje.client.esproj|solutionrelative:sistemapatinaje.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFD5692-0A92-4E18-81EB-1EA3AE456F08}|sistemapatinaje.client\\sistemapatinaje.client.esproj|c:\\users\\maico\\documents\\github\\final\\sistemapatinaje\\sistemapatinaje.client\\src\\componentes\\formulario.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1BFD5692-0A92-4E18-81EB-1EA3AE456F08}|sistemapatinaje.client\\sistemapatinaje.client.esproj|solutionrelative:sistemapatinaje.client\\src\\componentes\\formulario.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\maico\\Documents\\GitHub\\Final\\SistemaPatinaje\\sistemapatinaje.client\\index.html",
+              "RelativeDocumentMoniker": "sistemapatinaje.client\\index.html",
+              "ToolTip": "C:\\Users\\maico\\Documents\\GitHub\\Final\\SistemaPatinaje\\sistemapatinaje.client\\index.html",
+              "RelativeToolTip": "sistemapatinaje.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-02T05:12:19.517Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Formulario.jsx",
+              "DocumentMoniker": "C:\\Users\\maico\\Documents\\GitHub\\Final\\SistemaPatinaje\\sistemapatinaje.client\\src\\componentes\\Formulario.jsx",
+              "RelativeDocumentMoniker": "sistemapatinaje.client\\src\\componentes\\Formulario.jsx",
+              "ToolTip": "C:\\Users\\maico\\Documents\\GitHub\\Final\\SistemaPatinaje\\sistemapatinaje.client\\src\\componentes\\Formulario.jsx",
+              "RelativeToolTip": "sistemapatinaje.client\\src\\componentes\\Formulario.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-02T05:41:58.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\maico\\Documents\\GitHub\\Final\\SistemaPatinaje\\sistemapatinaje.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "sistemapatinaje.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\maico\\Documents\\GitHub\\Final\\SistemaPatinaje\\sistemapatinaje.client\\src\\main.jsx",
+              "RelativeToolTip": "sistemapatinaje.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-02T05:10:38.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\maico\\Documents\\GitHub\\Final\\SistemaPatinaje\\sistemapatinaje.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "sistemapatinaje.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\maico\\Documents\\GitHub\\Final\\SistemaPatinaje\\sistemapatinaje.client\\src\\App.jsx",
+              "RelativeToolTip": "sistemapatinaje.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-02T04:59:18.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

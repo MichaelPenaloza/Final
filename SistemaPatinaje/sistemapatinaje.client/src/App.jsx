@@ -1,49 +1,36 @@
-import { useEffect, useState } from 'react';
-import './App.css';
+import "bootstrap/dist/css/bootstrap.min.css";
+import Formulario from "./componentes/Formulario";
 
-function App() {
-    const [forecasts, setForecasts] = useState();
 
-    useEffect(() => {
-        populateWeatherData();
-    }, []);
-
-    const contents = forecasts === undefined
-        ? <p><em>Loading... Please refresh once the ASP.NET backend has started. See <a href="https://aka.ms/jspsintegrationreact">https://aka.ms/jspsintegrationreact</a> for more details.</em></p>
-        : <table className="table table-striped" aria-labelledby="tableLabel">
-            <thead>
-                <tr>
-                    <th>Date</th>
-                    <th>Temp. (C)</th>
-                    <th>Temp. (F)</th>
-                    <th>Summary</th>
-                </tr>
-            </thead>
-            <tbody>
-                {forecasts.map(forecast =>
-                    <tr key={forecast.date}>
-                        <td>{forecast.date}</td>
-                        <td>{forecast.temperatureC}</td>
-                        <td>{forecast.temperatureF}</td>
-                        <td>{forecast.summary}</td>
-                    </tr>
-                )}
-            </tbody>
-        </table>;
-
+const App = () => {
     return (
-        <div>
-            <h1 id="tableLabel">Weather forecast</h1>
-            <p>This component demonstrates fetching data from the server.</p>
-            {contents}
+        <div className="container-fluid">
+            <div className="row">
+                <Formulario/>
+                <div className="col-md-6 mb-4">
+                    <h2>Deportistas</h2>
+                    <table className="table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Nombre</th>
+                                <th scope="col">Apellidos</th>
+                                <th scope="col">Cédula</th>
+                                <th scope="col">Fecha de Nacimiento</th>
+                                <th scope="col">Foto de Cédula</th>
+                                <th scope="col">Foto de Deportista</th>
+                                <th scope="col">Acciones</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tablaDeportistasBody">
+                            
+                        </tbody>
+                    </table>
+                </div>
+                
+            </div>
         </div>
-    );
-    
-    async function populateWeatherData() {
-        const response = await fetch('weatherforecast');
-        const data = await response.json();
-        setForecasts(data);
-    }
+
+    )
 }
 
 export default App;

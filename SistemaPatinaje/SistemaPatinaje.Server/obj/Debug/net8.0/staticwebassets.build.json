@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "n66pNl0N4WEUvjTLPAKgkbBUGU1W1pKl64fc15xghcQ=",
+  "Source": "SistemaPatinaje.Server",
+  "BasePath": "_content/SistemaPatinaje.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\maico\\Documents\\GitHub\\Final\\SistemaPatinaje\\sistemapatinaje.client\\sistemapatinaje.client.esproj",
+      "Version": 2,
+      "Source": "sistemapatinaje.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
